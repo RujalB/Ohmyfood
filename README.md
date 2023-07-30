@@ -18,7 +18,6 @@ When hover is off, the transition goes smoothly to its original place.
 
 ### The heart
 
-this line :
 >transition: all 0.2s;
 makes a second heart appear after 0.2s over the first, coloured.
 These other lines make the heart appear in linear gradient.

@@ -1,11 +1,11 @@
 # Project 2 - Integrate a mobile website with animations in CSS
 ## Introduction
 This website is available at https://rujalb.github.io/
-This is an OpenClassRooms project, for the web developpers.
+This is an OpenClassRooms project, for the web developers.
 The main goal of this project website is to master css animations and transitions.
 
 ## 1 homepage, 4 menu-pages
-I had to focus on only one menu for this work, then copy paste the right names for the others.
+Had to focus on only one menu for this work, then copy paste the right names for the others.
 
 ## CSS transitions
 

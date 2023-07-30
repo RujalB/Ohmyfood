@@ -12,8 +12,6 @@
 .header a{
   border: none;
   background-color: white;
-  /* margin-left: 20px; */
-  /* float: left; */
 }
 .header i{
   font-size: 22px;
@@ -250,6 +248,9 @@ span.fa-solid.fa-heart:hover {
   }
   .header a{
     margin-left: 20px;
+  }
+  .header .logoimage{
+    margin-left: 0;
   }
     .menu img{
         max-width: 100%;

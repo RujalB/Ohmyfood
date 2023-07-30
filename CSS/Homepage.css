@@ -263,7 +263,6 @@
     .footer{
         background-color: #454545;
         color:white;
-        
     }
     .footer h4{
         padding: 15px 0 20px 20px;
@@ -326,7 +325,7 @@ margin:30px auto 10px auto;
 .footer{
     background-color: #454545;
     color:white;
-    
+    cursor: pointer;
 }
 .footer h4{
     padding: 15px 0 20px 20px;
